@@ -2,5 +2,5 @@ the build result is in the build folder
 
 the pourpose of this project is to learn about game ai
 and this time its used miner and elsa(miner's wife)
-the goal is the miner go to mine and than go to bank if the gold in pocket is full then going home
-as for else it was to do th housework and cooking
+the goal is the miner go to mine(yellow) and than go to bank(blue) if the gold in pocket is full then going home(purple)
+as for else it was to do th housework in hhe house(purple) and cooking in the kitchen(white)
